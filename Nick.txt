@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 I wanna go home
+=======
+confilcts
+>>>>>>> origin/Nick
