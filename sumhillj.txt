@@ -1,2 +1,3 @@
 hello
 scenario 1 practice
+scenario 2
